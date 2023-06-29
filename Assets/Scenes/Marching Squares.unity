@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 336510828}
   - component: {fileID: 336510827}
   m_Layer: 0
-  m_Name: MarchingSquares
+  m_Name: Marching Squares
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
